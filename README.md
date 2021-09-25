@@ -1,2 +1,2 @@
-Meu prieiro projeto no GitHub está sendo baixado.
+Meu primeiro projeto no Github está sendo baixado.
 Estou na branch testing.
