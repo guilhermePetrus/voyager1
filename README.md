@@ -1,1 +1,1 @@
-Meu prieiro projeto no GitHub
+Meu prieiro projeto no GitHub está sendo baixado.
